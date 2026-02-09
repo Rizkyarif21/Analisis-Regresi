@@ -1,1 +1,1 @@
-# Analisis-Regresi pertemuan 1
+# Analisis-Regresi
